@@ -1,8 +1,8 @@
 const heart = document.getElementById("heart");
 const wahyu = document.getElementById("wahyu");
-const kartika = document.getElementById("kartika");
+const rahmah = document.getElementById("rahmah");
 
 function animasi() {
   wahyu.classList.toggle("animasi-wahyu");
-  kartika.classList.toggle("animasi-kartika");
+  rahmah.classList.toggle("animasi-rahmah");
 }
